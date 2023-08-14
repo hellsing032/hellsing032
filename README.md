@@ -14,6 +14,13 @@
   </a>
 </p>
 
+<p align="left">
+<a href="https://github.com/hellsing032">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hellsing032&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellsing032&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 - 👋 Hi, I’m @hellsing032
 - 👀 I’m interested in Web, Cloud Computing, Cybersecurity
 - 🌱 I’m currently learning Cloud Computing
