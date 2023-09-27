@@ -23,7 +23,7 @@
 </p>
 
 - 👋 Hi, I’m @hellsing032
-- 👀 I’m interested in Web, Cloud Computing, Cybersecurity
+- 👀 I’m interested in Web Dev, Cloud Computing, Cybersecurity
 - 🌱 I’m currently learning Cloud Computing
 
 <!--
