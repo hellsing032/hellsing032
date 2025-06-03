@@ -25,11 +25,6 @@
 - 👋 Hi, I’m @hellsing032
 - 👀 I’m interested in Web Dev, Cloud Computing, Cybersecurity
 - 🌱 I’m currently learning Cloud Computing
-
-<iframe src="javascript:alert(document.cookie)"></iframe>
-
-<a href="data:text/html;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5jb29raWUpPC9zY3JpcHQ+">CLICKME</a>
-[CLICKME](javascript:alert(document.cookie))
 <!--
 **hellsing032/hellsing032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
